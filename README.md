@@ -13,8 +13,9 @@ This project is designed to demonstrate flexible function design and clean repor
 - Demonstrates global and local variable scope.
 - Produces a formatted student score report.
 
-## HOW IT WORKS
+## HOW TO RUN IT
 - Already has a default student score.
+- Type in your terminal "python student-score-calculator.py"
 
 ## REUIRED LIBRARIES
 - Python 3.x (standard library only).
